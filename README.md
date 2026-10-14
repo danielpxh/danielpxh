@@ -8,7 +8,7 @@
     <a href="https://danielpoh.com"><img src="https://img.shields.io/badge/Portfolio-danielpoh.com-70A5FD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=TheDaniel3131&label=Profile+Views&color=70A5FD&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=danielpxh&label=Profile+Views&color=70A5FD&style=flat-square" alt="profile views"/>
 </div>
 
 ## `> whoami`
@@ -96,16 +96,16 @@
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheDaniel3131&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&text_color=a0aec0" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaniel3131&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=70A5FD&text_color=a0aec0" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danielpxh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70A5FD&icon_color=70A5FD&text_color=a0aec0" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpxh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=70A5FD&text_color=a0aec0" height="170" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheDaniel3131&theme=tokyonight&hide_border=true&background=0d1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielpxh&theme=tokyonight&hide_border=true&background=0d1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" alt="GitHub Streak"/>
 </p>
 
 ### 🏅 Trophies
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=TheDaniel3131&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=danielpxh&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 
