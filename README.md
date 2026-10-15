@@ -8,7 +8,8 @@
     <a href="https://danielpoh.com"><img src="https://img.shields.io/badge/Portfolio-danielpoh.com-70A5FD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=danielpxh&label=Profile+Views&color=70A5FD&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=TheDaniel3131&label=Profile+Views&color=70A5FD&style=flat-square" alt="profile views"/> 
+  <!-- Was 3406 profile views, but I rebranded to 'danielpxh'-->
 </div>
 
 ## `> whoami`
